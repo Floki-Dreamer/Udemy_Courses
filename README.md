@@ -22,7 +22,7 @@ Motivado por esta noticia, decidí realizar un análisis sobre los cursos de Ude
 
 ### **Fuentes de datos y herramientas utilizadas**
 
-Los datos para este análisis fueron obtenidos de [Kaggle]([https://insideairbnb.com/get-the-data/](https://www.kaggle.com/datasets/yusufdelikkaya/udemy-online-education-courses))  
+Los datos para este análisis fueron obtenidos de [Kaggle](https://www.kaggle.com/datasets/yusufdelikkaya/udemy-online-education-courses) 
 
 El tratamiento y análisis de los datos se realizó utilizando:
 
