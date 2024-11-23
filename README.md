@@ -11,7 +11,7 @@ Según Spinelli, ejecutivo de la empresa:
 
 Además, comentó que factores como el entorno macroeconómico y la estabilidad política de México fueron determinantes en la decisión de establecer operaciones en el país, el cual servirá como un punto de partida para expandir sus actividades en toda América Latina.
 
-Riquelme, R. (2024, October 25). La plataforma educativa Udemy instalará oficina en México. El Economista. https://www.eleconomista.com.mx/tecnologia/plataforma-educativa-udemy-instalara-oficina-mexico-20241025-731558.html
+Riquelme, R. (2024, October 25). La plataforma educativa Udemy instalará oficina en México. El Economista.[Consulta la fuente aqui](https://www.eleconomista.com.mx/tecnologia/plataforma-educativa-udemy-instalara-oficina-mexico-20241025-731558.html) 
 
 Motivado por esta noticia, decidí realizar un análisis sobre los cursos de Udemy para responder a las siguientes preguntas:
 
