@@ -11,23 +11,24 @@ Según Spinelli, ejecutivo de la empresa:
 
 Además, comentó que factores como el entorno macroeconómico y la estabilidad política de México fueron determinantes en la decisión de establecer operaciones en el país, el cual servirá como un punto de partida para expandir sus actividades en toda América Latina.
 
+Riquelme, R. (2024, October 25). La plataforma educativa Udemy instalará oficina en México. El Economista. https://www.eleconomista.com.mx/tecnologia/plataforma-educativa-udemy-instalara-oficina-mexico-20241025-731558.html
+
 Motivado por esta noticia, decidí realizar un análisis sobre los cursos de Udemy para responder a las siguientes preguntas:
 
--¿Cuáles son los cursos más demandados?
--¿Qué áreas de aprendizaje son las más buscadas?
--¿Cuántos cursos existen por área y por nivel de dificultad?
+- ¿Cuáles son los cursos más demandados?
+- ¿Qué áreas de aprendizaje son las más buscadas?
+- ¿Cuántos cursos existen por área y por nivel de dificultad?
 
 
 ### **Fuentes de datos y herramientas utilizadas**
 
 Los datos para este análisis fueron obtenidos de [Kaggle]([https://insideairbnb.com/get-the-data/](https://www.kaggle.com/datasets/yusufdelikkaya/udemy-online-education-courses))  
-Riquelme, R. (2024, October 25). La plataforma educativa Udemy instalará oficina en México. El Economista. https://www.eleconomista.com.mx/tecnologia/plataforma-educativa-udemy-instalara-oficina-mexico-20241025-731558.html
 
 El tratamiento y análisis de los datos se realizó utilizando:
 
--Python: Para el procesamiento y análisis de datos.
--Pandas: Para la manipulación de los datos.
--Matplotlib: Para la visualización gráfica de los resultados.
+- Python: Para el procesamiento y análisis de datos.
+- Pandas: Para la manipulación de los datos.
+- Matplotlib: Para la visualización gráfica de los resultados.
 
 El código utilizado en este proceso está disponible en GitHub:  
 [Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Udemy_Courses/blob/main/Udemy_courses.ipynb).  
